@@ -1,0 +1,12 @@
+{
+  "name": "nutripro-web",
+  "version": "1.0.0",
+  "description": "Web de Nutripro Gym (Cambrils) - Inicio y Suplementación",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
